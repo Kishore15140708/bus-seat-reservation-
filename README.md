@@ -1,7 +1,7 @@
 //Bus seat reservation system
 #include <stdio.h>
 
-#define SEATS 20   // total seats in the bus
+#define SEATS 20   // total seats in the bus.
 
 int main() {
     int seats[SEATS];
